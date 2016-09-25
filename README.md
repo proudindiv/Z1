@@ -41,7 +41,7 @@ To compile the knitr .Rnw files I use this user command in TeXstudio:
 Rscript -e "library(knitr);knit('%.Rnw')" | pdflatex -synctex=1 -interaction=nonstopmode %.tex
 ```
 
-### Web References to Release of the FRB/US Model:
+### Web References:
 
 * [Board of Governors of the Federal Reserve System](https://www.federalreserve.gov/default.htm)
 
