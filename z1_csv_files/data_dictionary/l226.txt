@@ -1,0 +1,7 @@
+FL883140005.Q	All domestic sectors; life insurance reserves; liability	Line 1	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL313140003.Q	Federal government; life insurance reserves; liability	Line 2	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL543140005.Q	Life insurance companies; life insurance reserves; liability	Line 3	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL883140005.Q	All domestic sectors; life insurance reserves; liability	Line 4	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL153040005.Q	Households and nonprofit organizations; life insurance reserves; asset	Line 5	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL763040005.Q	U.S.-chartered depository institutions; life insurance reserves; asset	Line 6	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted
+FL733040005.Q	Holding companies; life insurance reserves; asset	Line 7	Table L.226 Life Insurance Reserves	Millions of dollars; not seasonally adjusted

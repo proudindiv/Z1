@@ -1,0 +1,25 @@
+FL383162005.Q	Domestic nonfinancial sectors; municipal securities; liability	Line 1	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL213162005.Q	State and local governments, excluding employee retirement funds; municipal securities; liability	Line 2	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL213162400.Q	State and local governments, excluding employee retirement funds; short-term municipal securities; liability	Line 3	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL213162200.Q	State and local governments, excluding employee retirement funds; long-term municipal securities; liability	Line 4	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL163162003.Q	Nonprofit organizations; municipal securities; liability	Line 5	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL103162000.Q	Nonfinancial corporate business; municipal securities; liability	Line 6	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL383162005.Q	Domestic nonfinancial sectors; municipal securities; liability	Line 7	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL153062005.Q	Households and nonprofit organizations; municipal securities; asset	Line 8	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL103062003.Q	Nonfinancial corporate business; municipal securities; asset	Line 9	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL113062003.Q	Nonfinancial noncorporate business; municipal securities; asset	Line 10	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL213062003.Q	State and local governments, excluding employee retirement funds; municipal securities; asset	Line 11	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL763062000.Q	U.S.-chartered depository institutions; municipal securities; asset	Line 12	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL753062003.Q	Foreign banking offices in the U.S.; municipal securities; asset	Line 13	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL743062003.Q	Banks in U.S.-affiliated areas; municipal securities; asset	Line 14	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL473062005.Q	Credit unions; municipal securities; asset	Line 15	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL513062003.Q	Property-casualty insurance companies; municipal securities; asset	Line 16	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL543062005.Q	Life insurance companies; municipal securities; asset	Line 17	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL223062043.Q	State and local government employee defined benefit retirement funds; municipal securities; asset	Line 18	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL633062000.Q	Money market mutual funds; municipal securities; asset	Line 19	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+LM653062003.Q	Mutual funds; municipal securities; asset (market value)	Line 20	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+LM553062003.Q	Closed-end funds; municipal securities; asset	Line 21	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+LM563062003.Q	Exchange-traded funds; municipal securities; asset	Line 22	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL403062005.Q	Government-sponsored enterprises; municipal securities and Sallie Mae public academic facilities financing and Sallie Mae public warehousing advances; asset	Line 23	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL663062003.Q	Security brokers and dealers; municipal securities; asset	Line 24	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+FL263062003.Q	Rest of the world; municipal securities; asset	Line 25	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted

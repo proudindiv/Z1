@@ -1,0 +1,31 @@
+FU893065005.Q	All sectors; total mortgages; asset	Line 1	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065105.Q	All sectors; home mortgages; asset	Line 2	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065405.Q	All sectors; multifamily residential mortgages; asset	Line 3	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065505.Q	All sectors; commercial mortgages; asset	Line 4	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065603.Q	All sectors; farm mortgages; asset	Line 5	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065005.Q	All sectors; total mortgages; asset	Line 6	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU153165005.Q	Households and nonprofit organizations; total mortgages; liability	Line 7	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU143165005.Q	Nonfinancial business; total mortgages; liability	Line 8	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU103165005.Q	Nonfinancial corporate business; total mortgages; liability	Line 9	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU113165005.Q	Nonfinancial noncorporate business; total mortgages; liability	Line 10	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU313165403.Q	Federal government; multifamily residential mortgages; liability	Line 11	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU643165005.Q	Real estate investment trusts; total mortgages; liability	Line 12	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893065005.Q	All sectors; total mortgages; asset	Line 13	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU153065005.Q	Households and nonprofit organizations; total mortgages; asset	Line 14	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU103065003.Q	Nonfinancial corporate business; total mortgages; asset	Line 15	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU113065005.Q	Nonfinancial noncorporate business; total mortgages; asset	Line 16	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU313065005.Q	Federal government; total mortgages; asset	Line 17	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU213065005.Q	State and local governments, excluding employee retirement funds; total mortgages; asset	Line 18	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU763065005.Q	U.S.-chartered depository institutions; total mortgages; asset	Line 19	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU753065005.Q	Foreign banking offices in the U.S.; total mortgages; asset	Line 20	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU743065003.Q	Banks in U.S.-affiliated areas; total mortgages; asset	Line 21	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU473065100.Q	Credit unions; home mortgages; asset	Line 22	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU513065503.Q	Property-casualty insurance companies; commercial mortgages; asset	Line 23	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU543065005.Q	Life insurance companies; total mortgages; asset	Line 24	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU573065005.Q	Private pension funds; total mortgages; asset	Line 25	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU223065043.Q	State and local government employee defined benefit retirement funds; total mortgages; asset	Line 26	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU403065005.Q	Government-sponsored enterprises; total mortgages; asset	Line 27	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU413065005.Q	Agency-and GSE-backed mortgage pools; total mortgages; asset	Line 28	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU673065005.Q	Issuers of asset-backed securities; total mortgages; asset	Line 29	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU613065000.Q	Finance companies; total mortgages; asset	Line 30	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU643065005.Q	Real estate investment trusts; total mortgages; asset	Line 31	Table FU.217 Total Mortgages	Millions of dollars; quarterly figures are unadjusted quarterly rates

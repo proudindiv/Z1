@@ -1,0 +1,13 @@
+FL153050005.Q	Households and nonprofit organizations; pension entitlements; asset	Line 1	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL543150005.Q	Life insurance companies; pension entitlements, excluding unallocated insurance contracts; liability	Line 2	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL574190005.Q	Private pension funds; total liabilities	Line 3	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL344090005.Q	Federal government retirement funds; total financial assets	Line 4	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL224190005.Q	State and local government employee retirement funds; pension entitlements (total liabilities)	Line 5	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL153050005.Q	Households and nonprofit organizations; pension entitlements; asset	Line 6	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+LM893131573.Q	All sectors; IRAs; liability	Line 7	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL763131573.Q	U.S.-chartered depository institutions; IRAs and Keoghs; liability	Line 8	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL473131573.Q	Credit unions; IRAs; liability	Line 9	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+LM543131503.Q	Life insurance companies; IRAs; liability	Line 10	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+FL633131573.Q	Money market mutual funds; IRAs; liability	Line 11	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+LM653131573.Q	Mutual funds; IRAs; liability	Line 12	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted
+LM153131575.Q	Households and nonprofit organizations; IRAs; liability	Line 13	Table L.227 Pension Entitlements	Millions of dollars; not seasonally adjusted

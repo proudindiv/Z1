@@ -1,0 +1,37 @@
+FA546000105.Q	Life insurance companies; gross saving including foreign earnings retained abroad	Line 1	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA545013005.Q	Life insurance companies; gross fixed investment, nonresidential structures, equipment, and intellectual property products	Line 2	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA544090005.Q	Life insurance companies; total financial assets	Line 3	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543020005.Q	Life insurance companies; checkable deposits and currency; asset	Line 4	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543034005.Q	Life insurance companies; money market mutual fund shares; asset	Line 5	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA542051073.Q	Life insurance companies, general accounts; security repurchase agreements; asset	Line 6	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA544022005.Q	Life insurance companies; debt securities; asset	Line 7	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543069105.Q	Life insurance companies; commercial paper; asset	Line 8	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543061105.Q	Life insurance companies; Treasury securities; asset	Line 9	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 10	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543062005.Q	Life insurance companies; municipal securities; asset	Line 11	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 12	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA544023005.Q	Life insurance companies; loans; asset	Line 13	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543069005.Q	Life insurance companies; other loans and advances; asset	Line 14	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543065005.Q	Life insurance companies; total mortgages; asset	Line 15	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543064105.Q	Life insurance companies; corporate equities; asset	Line 16	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543064205.Q	Life insurance companies; mutual fund shares; asset	Line 17	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543092073.Q	Life insurance companies, general accounts; U.S. direct investment abroad; asset	Line 18	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543090005.Q	Life insurance companies; total miscellaneous assets	Line 19	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543092473.Q	Life insurance companies, general accounts; equity in FHLB; asset	Line 20	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543077073.Q	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Line 21	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543093005.Q	Life insurance companies; unidentified miscellaneous assets	Line 22	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA544190005.Q	Life insurance companies; total liabilities	Line 23	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA542151073.Q	Life insurance companies, general accounts; security repurchase agreements; liability	Line 24	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543164173.Q	Life insurance companies, general accounts; corporate equities; liability	Line 25	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543169373.Q	Life insurance companies, general accounts; FHLB advances; liability	Line 26	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543140005.Q	Life insurance companies; life insurance reserves; liability	Line 27	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543150005.Q	Life insurance companies; pension entitlements, excluding unallocated insurance contracts; liability	Line 28	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543178073.Q	Life insurance companies, general accounts; taxes payable (net); liability	Line 29	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543192073.Q	Life insurance companies, general accounts; foreign direct investment in U.S.; liability	Line 30	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543190005.Q	Life insurance companies; total miscellaneous liabilities	Line 31	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543194733.Q	Life insurance companies; net transactions due to holding companies; liability	Line 32	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA673090543.Q	Issuers of asset-backed securities; funding agreements backing securities; asset	Line 33	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543195005.Q	Life insurance companies; insurance reserves, excluding life insurance reserves and pension entitlements; liability	Line 34	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA593095005.Q	Pension funds; unallocated insurance contracts; asset	Line 35	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA543193005.Q	Life insurance companies; unidentified miscellaneous liabilities	Line 36	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA547005005.Q	Life insurance companies; sector discrepancy	Line 37	Table F.116 Life Insurance Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates

@@ -1,0 +1,136 @@
+FA266905095.A	Rest of the world; foreign income from U.S. (IMA)	Line 1	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266903001.A	Rest of the world; U.S. imports	Line 2	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266904195.A	Rest of the world; income receipts from the U.S. (IMA)	Line 3	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266400101.A	Rest of the world; current taxes and transfer payments received	Line 4	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266900095.A	Rest of the world; foreign outlays to U.S. (IMA)	Line 5	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266903011.A	Rest of the world; U.S. exports	Line 6	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266904095.A	Rest of the world; income payments to the U.S. (IMA)	Line 7	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266400201.A	Rest of the world; current taxes, contributions for government social insurance, and transfer payments paid	Line 8	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266000095.A	Rest of the world; balance on current account (NIPA with reversed sign); net saving	Line 9	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA266000095.A	Rest of the world; balance on current account (NIPA with reversed sign); net saving	Line 10	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA265440005.A	Rest of the world; net capital transfers paid	Line 11	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA265420095.A	Rest of the world; acquisition of nonproduced nonfinancial assets (net) (IMA)	Line 12	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA265000905.A	Rest of the world; net lending (+) or borrowing (-) (capital account)	Line 13	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA265000905.A	Rest of the world; net lending (+) or borrowing (-) (capital account)	Line 14	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264090005.A	Rest of the world; total financial assets	Line 15	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263011005.A	Rest of the world; U.S. official reserve assets	Line 16	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263011205.A	Rest of the world; monetary gold; asset	Line 17	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Line 18	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264000005.A	Rest of the world; total currency and deposits; asset	Line 19	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263025003.A	Rest of the world; currency; asset	Line 20	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263027003.A	Rest of the world; checkable deposits; asset	Line 21	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263030005.A	Rest of the world; U.S. total time and savings deposits; asset	Line 22	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264016005.A	Rest of the world; net interbank transactions with banks in foreign countries; asset	Line 23	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264022005.A	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset	Line 24	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263069103.A	Rest of the world; commercial paper; asset	Line 25	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263061105.A	Rest of the world; Treasury securities; asset	Line 26	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263061705.A	Rest of the world; agency- and GSE-backed securities; asset	Line 27	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263062003.A	Rest of the world; municipal securities; asset	Line 28	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263063005.A	Rest of the world; corporate and foreign bonds; asset	Line 29	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264041005.A	Rest of the world; loans including security repurchase agreements, excluding mortgages; asset	Line 30	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA262051003.A	Rest of the world; security repurchase agreements; asset	Line 31	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263069500.A	Rest of the world; U.S. nonfinancial business loans; asset	Line 32	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263081005.A	Rest of the world; equity and investment fund shares; asset (IMA)	Line 33	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263034003.A	Rest of the world; U.S. money market mutual fund shares; asset	Line 34	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263064105.A	Rest of the world; U.S. corporate equities; asset	Line 35	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263064203.A	Rest of the world; U.S. mutual fund shares; asset	Line 36	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263092001.A	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 37	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263070003.A	Rest of the world; trade receivables; asset	Line 38	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264190005.A	Rest of the world; total liabilities	Line 39	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA313011303.A	Federal government; special drawing rights (SDRs) holdings; asset	Line 40	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264100005.A	Rest of the world; total currency and deposits; liability	Line 41	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263111503.A	Rest of the world; other U.S. reserve assets (total); liability	Line 42	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263111403.A	Rest of the world; reserve position in IMF (net); liability	Line 43	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263191005.A	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 44	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA313091105.A	Federal government; nonofficial foreign currencies; asset	Line 45	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264122005.A	Rest of the world; debt securities, excluding negotiable certificates of deposit; liability	Line 46	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263169105.A	Rest of the world; commercial paper; liability	Line 47	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263163005.A	Rest of the world; bonds; liability	Line 48	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA264141005.A	Rest of the world; short-term loans including security repurchase agreements; liability	Line 49	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA262151003.A	Rest of the world; security repurchase agreements; liability	Line 50	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263169005.A	Rest of the world; other loans and advances; liability	Line 51	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263168005.A	Rest of the world; depository institution loans n.e.c.; liability	Line 52	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA713091103.A	Monetary authority; nonofficial foreign currencies (swap lines); asset	Line 53	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263181105.A	Rest of the world; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 54	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263164103.A	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 55	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA313092803.A	Federal government; U.S. equity in IBRD, etc.; asset	Line 56	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263192005.A	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (current cost)	Line 57	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263194735.A	Rest of the world; net transactions due to holding companies; liability	Line 58	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA263170003.A	Rest of the world; trade credit and advances; liability	Line 59	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA265000005.A	Rest of the world; net lending (+) or borrowing (-) (financial account)	Line 60	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FV268090185.A	Rest of the world; total other volume changes (IMA)	Line 61	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FV268090085.A	Rest of the world; other volume changes (IMA)	Line 62	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU267005005.A	Rest of the world; sector discrepancy (FOF basis)	Line 63	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR264090005.A	Rest of the world; total financial assets	Line 64	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263011005.A	Rest of the world; U.S. official reserve assets	Line 65	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR264000005.A	Rest of the world; total currency and deposits; asset	Line 66	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR264022005.A	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset	Line 67	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263069103.A	Rest of the world; commercial paper; asset	Line 68	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263061105.A	Rest of the world; Treasury securities; asset	Line 69	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263061705.A	Rest of the world; agency- and GSE-backed securities; asset	Line 70	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263063005.A	Rest of the world; corporate and foreign bonds; asset	Line 71	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263081005.A	Rest of the world; equity and investment fund shares; asset (IMA)	Line 72	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263064105.A	Rest of the world; U.S. corporate equities; asset	Line 73	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263064203.A	Rest of the world; U.S. mutual fund shares; asset	Line 74	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263092001.A	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 75	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263070003.A	Rest of the world; trade receivables; asset	Line 76	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR264194005.A	Rest of the world; total liabilities and equity	Line 77	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR313011303.A	Federal government; special drawing rights (SDRs) holdings; asset	Line 78	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR264100005.A	Rest of the world; total currency and deposits; liability	Line 79	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263111503.A	Rest of the world; other U.S. reserve assets (total); liability	Line 80	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263111403.A	Rest of the world; reserve position in IMF (net); liability	Line 81	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263191005.A	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 82	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263191103.A	Rest of the world; nonofficial U.S. currencies; liability	Line 83	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263163005.A	Rest of the world; bonds; liability	Line 84	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263169205.A	Rest of the world; U.S. government loans excluding capital subscriptions and contributions to international financial institutions and the IMF; liability	Line 85	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263181105.A	Rest of the world; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 86	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263164103.A	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 87	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263192005.A	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (current cost)	Line 88	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR263170003.A	Rest of the world; trade credit and advances; liability	Line 89	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR265000005.A	Rest of the world; net lending (+) or borrowing (-) (financial account)	Line 90	Table S.9.a Rest of the World	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FC262090095.A	Rest of the world; net worth (IMA)	Line 91	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264090005.A	Rest of the world; total financial assets	Line 92	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Line 93	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264000005.A	Rest of the world; total currency and deposits; asset	Line 94	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263025003.A	Rest of the world; currency; asset	Line 95	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263027003.A	Rest of the world; checkable deposits; asset	Line 96	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263030005.A	Rest of the world; U.S. total time and savings deposits; asset	Line 97	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264016005.A	Rest of the world; net interbank transactions with banks in foreign countries; asset	Line 98	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264022005.A	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset	Line 99	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263069103.A	Rest of the world; commercial paper; asset	Line 100	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061105.A	Rest of the world; Treasury securities; asset	Line 101	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061705.A	Rest of the world; agency- and GSE-backed securities; asset	Line 102	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263062003.A	Rest of the world; municipal securities; asset	Line 103	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263063005.A	Rest of the world; corporate and foreign bonds; asset	Line 104	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264041005.A	Rest of the world; loans including security repurchase agreements, excluding mortgages; asset	Line 105	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL262051003.A	Rest of the world; security repurchase agreements; asset	Line 106	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263069500.A	Rest of the world; U.S. nonfinancial business loans; asset	Line 107	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263081005.A	Rest of the world; equity and investment fund shares; asset (IMA)	Line 108	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263034003.A	Rest of the world; U.S. money market mutual fund shares; asset	Line 109	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263064105.A	Rest of the world; U.S. corporate equities; asset	Line 110	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263064203.A	Rest of the world; U.S. mutual fund shares; asset	Line 111	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263092001.A	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 112	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263070003.A	Rest of the world; trade receivables; asset	Line 113	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL262100005.A	Rest of the world; total liabilities and net worth (IMA)	Line 114	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264194005.A	Rest of the world; total liabilities and equity	Line 115	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL313011303.A	Federal government; special drawing rights (SDRs) holdings; asset	Line 116	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264100005.A	Rest of the world; total currency and deposits; liability	Line 117	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263111503.A	Rest of the world; other U.S. reserve assets (total); liability	Line 118	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263111403.A	Rest of the world; reserve position in IMF (net); liability	Line 119	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263191005.A	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 120	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL313091105.A	Federal government; nonofficial foreign currencies; asset	Line 121	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264122005.A	Rest of the world; debt securities, excluding negotiable certificates of deposit; liability	Line 122	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263169105.A	Rest of the world; commercial paper; liability	Line 123	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263163005.A	Rest of the world; bonds; liability	Line 124	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL264141005.A	Rest of the world; short-term loans including security repurchase agreements; liability	Line 125	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL262151003.A	Rest of the world; security repurchase agreements; liability	Line 126	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263169005.A	Rest of the world; other loans and advances; liability	Line 127	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263168005.A	Rest of the world; depository institution loans n.e.c.; liability	Line 128	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL713091103.A	Monetary authority; nonofficial foreign currencies (swap lines); asset	Line 129	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263181105.A	Rest of the world; equity and investment fund shares excluding mutual fund shares and money market fund shares; liability (IMA)	Line 130	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+LM263164103.A	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 131	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL313092803.A	Federal government; U.S. equity in IBRD, etc.; asset	Line 132	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263192005.A	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (current cost)	Line 133	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263194735.A	Rest of the world; net transactions due to holding companies; liability	Line 134	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL263170003.A	Rest of the world; trade credit and advances; liability	Line 135	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted
+FL262090095.A	Rest of the world; net worth (IMA)	Line 136	Table S.9.a Rest of the World	Millions of dollars; not seasonally adjusted

@@ -1,0 +1,23 @@
+FL504090005.Q	Funding corporations; total financial assets	Line 1	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503034003.Q	Funding corporations; money market mutual fund shares; asset	Line 2	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL502051003.Q	Funding corproations; security repurchase agreements; asset	Line 3	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL504022005.Q	Funding corporations; debt securities; asset	Line 4	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503069105.Q	Funding corporations; commercial paper; asset	Line 5	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503063005.Q	Funding corporations; corporate and foreign bonds, including financial stabilization programs; asset	Line 6	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503069805.Q	Funding corporations; syndicated loans to nonfinancial corporate business; asset	Line 7	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503064105.Q	Funding corporations; corporate equities; asset	Line 8	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503094505.Q	Funding corporations; equity investment in own subsidiaries; asset	Line 9	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL753194503.Q	Foreign banking offices in the U.S.; equity investment by funding corporations; liability	Line 10	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL663194505.Q	Security brokers and dealers; investment by funding corporations; liability	Line 11	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL504190005.Q	Funding corporations; total liabilities	Line 12	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL504122005.Q	Funding corporations; debt securities; liability	Line 13	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503169105.Q	Funding corporations; commercial paper; liability	Line 14	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503163005.Q	Funding corporations; corporate and foreign bonds where the proceeds are down-streamed to broker-dealer subsidiaries by investment banks that are holding-company parents; liability	Line 15	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL504123005.Q	Funding corporations; loans; liability	Line 16	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL713068505.Q	Monetary authority; depository institution loans n.e.c. to funding corporations; asset	Line 17	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503169205.Q	Funding corporations; U.S. government loans to TALF LLC and loans made under PPIP; liability	Line 18	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503192003.Q	Funding corporations; foriegn direct investment in U.S.; liability	Line 19	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503190005.Q	Funding corporations; total miscellaneous liabilities	Line 20	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL663097005.Q	Security brokers and dealers; securities borrowed (net); asset	Line 21	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503194305.Q	Funding corporations; equity investment in funds associated with PPIP; liability	Line 22	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted
+FL503193005.Q	Funding corporations; unidentified miscellaneous liabilities (net)	Line 23	Table L.132 Funding Corporations	Millions of dollars; not seasonally adjusted

@@ -1,0 +1,37 @@
+FL264090005.Q	Rest of the world; total financial assets	Line 1	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL313111303.Q	Federal government; special drawing rights (SDRs) allocations; liability	Line 2	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL264016005.Q	Rest of the world; net interbank transactions with banks in foreign countries; asset	Line 3	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263020005.Q	Rest of the world; U.S. checkable deposits and currency; asset	Line 4	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263030005.Q	Rest of the world; U.S. total time and savings deposits; asset	Line 5	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263034003.Q	Rest of the world; U.S. money market mutual fund shares; asset	Line 6	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL262051003.Q	Rest of the world; security repurchase agreements; asset	Line 7	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL264022005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; asset	Line 8	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263069103.Q	Rest of the world; commercial paper; asset	Line 9	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061105.Q	Rest of the world; Treasury securities; asset	Line 10	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061110.Q	Rest of the world; Treasury bills and certificates; asset	Line 11	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061120.Q	Rest of the world; other Treasury securities, excluding Treasury bills and certificates; asset	Line 12	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263061705.Q	Rest of the world; agency- and GSE-backed securities; asset	Line 13	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263062003.Q	Rest of the world; municipal securities; asset	Line 14	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263063005.Q	Rest of the world; corporate and foreign bonds; asset	Line 15	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263069500.Q	Rest of the world; U.S. nonfinancial business loans; asset	Line 16	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263064105.Q	Rest of the world; U.S. corporate equities; asset	Line 17	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263064203.Q	Rest of the world; U.S. mutual fund shares; asset	Line 18	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263070003.Q	Rest of the world; trade receivables; asset	Line 19	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263092001.Q	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 20	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL264190005.Q	Rest of the world; total liabilities	Line 21	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263111005.Q	Rest of the world; U.S. official reserve assets; liability	Line 22	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263191005.Q	Rest of the world; U.S. private deposits, including negotiable certificates of deposit; liability	Line 23	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL262151003.Q	Rest of the world; security repurchase agreements; liability	Line 24	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL264122005.Q	Rest of the world; debt securities, excluding negotiable certificates of deposit; liability	Line 25	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263169105.Q	Rest of the world; commercial paper; liability	Line 26	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263163005.Q	Rest of the world; bonds; liability	Line 27	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL264123005.Q	Rest of the world; loans; liability	Line 28	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263168005.Q	Rest of the world; depository institution loans n.e.c.; liability	Line 29	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263169005.Q	Rest of the world; other loans and advances; liability	Line 30	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263170003.Q	Rest of the world; trade credit and advances; liability	Line 31	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263192005.Q	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (current cost)	Line 32	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263190005.Q	Rest of the world; total miscellaneous liabilities	Line 33	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL313092803.Q	Federal government; U.S. equity in IBRD, etc.; asset	Line 34	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263191103.Q	Rest of the world; nonofficial U.S. currencies; liability	Line 35	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+FL263194735.Q	Rest of the world; net transactions due to holding companies; liability	Line 36	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted
+LM263164103.Q	Rest of the world; foreign corporate equities including foreign investment fund shares; liability	Line 37	Table L.133 Rest of the World	Millions of dollars; not seasonally adjusted

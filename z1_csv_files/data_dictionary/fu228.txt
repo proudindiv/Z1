@@ -1,0 +1,12 @@
+FU893178005.Q	All sectors; taxes payable; liability	Line 1	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU103178000.Q	Nonfinancial corporate business; taxes payable; liability	Line 2	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU113178003.Q	Nonfinancial noncorporate business; taxes payable; liability	Line 3	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU763178003.Q	U.S.-chartered depository institutions; taxes payable (net); liability	Line 4	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU513178003.Q	Property-casualty insurance companies; taxes payable (net); liability	Line 5	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU543178073.Q	Life insurance companies, general accounts; taxes payable (net); liability	Line 6	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU613178003.Q	Finance companies; taxes payable; liability	Line 7	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU663178003.Q	Security brokers and dealers; taxes payable; liability	Line 8	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893078005.Q	All sectors; taxes receivable; asset	Line 9	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU313078005.Q	Federal government; taxes receivable; asset	Line 10	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU213078005.Q	State and local governments, excluding employee retirement funds; taxes receivable; asset	Line 11	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU903078005.Q	Instrument discrepancies; taxes receivable	Line 12	Table FU.228 Taxes Payable by Businesses	Millions of dollars; quarterly figures are unadjusted quarterly rates

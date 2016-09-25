@@ -1,0 +1,13 @@
+FU153050005.Q	Households and nonprofit organizations; pension entitlements; asset	Line 1	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU543150005.Q	Life insurance companies; pension entitlements, excluding unallocated insurance contracts; liability	Line 2	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU574190005.Q	Private pension funds; total liabilities	Line 3	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU344090005.Q	Federal government retirement funds; total financial assets	Line 4	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU224190005.Q	State and local government employee retirement funds; pension entitlements (total liabilities)	Line 5	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU153050005.Q	Households and nonprofit organizations; pension entitlements; asset	Line 6	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU893131573.Q	All sectors; IRAs; liability	Line 7	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU763131573.Q	U.S.-chartered depository institutions; IRAs and Keoghs; liability	Line 8	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU473131573.Q	Credit unions; IRAs; liability	Line 9	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU543131503.Q	Life insurance companies; IRAs; liability	Line 10	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU633131573.Q	Money market mutual funds; IRAs; liability	Line 11	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU653131573.Q	Mutual funds; IRAs; liability	Line 12	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU153131575.Q	Households and nonprofit organizations; IRAs; liability	Line 13	Table FU.227 Pension Entitlements	Millions of dollars; quarterly figures are unadjusted quarterly rates

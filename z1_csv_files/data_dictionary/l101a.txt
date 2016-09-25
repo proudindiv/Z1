@@ -1,0 +1,27 @@
+FL164090005.A	Nonprofit organizations; total financial assets	Line 1	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163020005.A	Nonprofit organizations; checkable deposits and currency; asset	Line 2	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163030005.A	Nonprofit organizations; total time and savings deposits; asset	Line 3	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163034005.A	Nonprofit organizations; money market mutual fund shares; asset	Line 4	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL162051005.A	Nonprofit organizations; security repurchase agreements; asset	Line 5	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL164022005.A	Nonprofit organizations; debt securities; asset	Line 6	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163069103.A	Nonprofit organizations; commercial paper; asset	Line 7	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163061105.A	Nonprofit organizations; Treasury securities; asset	Line 8	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163061705.A	Nonprofit organizations; agency- and GSE-backed securities; asset	Line 9	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163062005.A	Nonprofit organizations; municipal securities; asset	Line 10	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163063005.A	Nonprofit organizations; corporate and foreign bonds; asset	Line 11	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL164023005.A	Nonprofit organizations; loans; asset	Line 12	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163065005.A	Nonprofit organizations; total mortgages; asset	Line 13	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163067005.A	Nonprofit organizations; cash accounts at brokers and dealers; asset	Line 14	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+LM163064105.A	Nonprofit organizations; corporate equities; asset	Line 15	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+LM163064205.A	Nonprofit organizations; mutual fund shares; asset	Line 16	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163070005.A	Nonprofit organizations; trade receivables; asset	Line 17	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL162090205.A	Nonprofit organizations; proprietors' equity in noncorporated business; asset	Line 18	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163093005.A	Nonprofit organizations; unidentified miscellaneous assets	Line 19	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL164190005.A	Nonprofit organizations; total liabilities	Line 20	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163162003.A	Nonprofit organizations; municipal securities; liability	Line 21	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL164123005.A	Nonprofit organizations; loans; liability	Line 22	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163168003.A	Nonprofit organizations; depository institution loans n.e.c.; liability	Line 23	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163169385.A	Nonprofit organizations; Sallie Mae private academic facilities financing and warehousing advances; liability	Line 24	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163165505.A	Nonprofit organizations; commercial mortgages; liability	Line 25	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163170003.A	Nonprofit organizations; trade payables; liability	Line 26	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
+FL163193005.A	Nonprofit organizations; unidentified miscellaneous liabilities	Line 27	Table L.101.a Nonprofit Organizations	Millions of dollars; not seasonally adjusted
