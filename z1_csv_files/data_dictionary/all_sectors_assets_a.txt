@@ -1,7 +1,7 @@
 FL154090005.A	Households and nonprofit organizations; total financial assets	Row 1; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144090005.A	Nonfinancial business; total financial assets	Row 1; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL214090005.A	State and local governments, excluding employee retirement funds; total financial assets	Row 1; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314090005.A	Federal government; total financial assets	Row 1; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314090005.A	Federal government; total financial assets	Row 1; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL214090005.A	State and local governments, excluding employee retirement funds; total financial assets	Row 1; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384090005.A	Domestic nonfinancial sectors; total financial assets	Row 1; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL794090005.A	Domestic financial sectors; total financial assets	Row 1; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL264090005.A	Rest of the world; total financial assets	Row 1; Column 13	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -9,22 +9,22 @@ FL894090005.A	All sectors; total financial assets	Row 1; Column 15	Flow of Funds
 FL907005015.A	Instrument discrepancies; total discrepancy (including international reserves)	Row 1; Column 17	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL154190005.A	Households and nonprofit organizations; total liabilities	Row 2; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144194005.A	Nonfinancial business; total liabilities and equity	Row 2; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL214190005.A	State and local governments, excluding employee retirement funds; total liabilities	Row 2; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314190005.A	Federal government; total liabilities	Row 2; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314190005.A	Federal government; total liabilities	Row 2; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL214190005.A	State and local governments, excluding employee retirement funds; total liabilities	Row 2; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384194005.A	Domestic nonfinancial sectors; total liabilities and equity	Row 2; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL794194005.A	Domestic financial sectors; total liabilities and equity	Row 2; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL264194005.A	Rest of the world; total liabilities and equity	Row 2; Column 14	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL894194005.A	All sectors; total liabilities and equity	Row 2; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL154190005.A	Households and nonprofit organizations; total liabilities	Row 3; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144190005.A	Nonfinancial business; total liabilities	Row 3; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL214190005.A	State and local governments, excluding employee retirement funds; total liabilities	Row 3; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314190005.A	Federal government; total liabilities	Row 3; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314190005.A	Federal government; total liabilities	Row 3; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL214190005.A	State and local governments, excluding employee retirement funds; total liabilities	Row 3; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384190005.A	Domestic nonfinancial sectors; total liabilities	Row 3; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL794190005.A	Domestic financial sectors; total liabilities	Row 3; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL264190005.A	Rest of the world; total liabilities	Row 3; Column 14	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL894190005.A	All sectors; total liabilities	Row 3; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313011005.A	Federal government; U.S. official reserve assets	Row 4; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Row 4; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313011005.A	Federal government; U.S. official reserve assets	Row 4; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Row 4; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313011005.A	Federal government; U.S. official reserve assets	Row 4; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313111303.A	Federal government; special drawing rights (SDRs) allocations; liability	Row 4; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713011005.A	Monetary authority; U.S. official reserve assets	Row 4; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -33,12 +33,12 @@ FL263111005.A	Rest of the world; U.S. official reserve assets; liability	Row 4; 
 FL893011005.A	All sectors; U.S. official reserve assets	Row 4; Column 15	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL893111005.A	All sectors; U.S. official reserve assets; liability	Row 4; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL903011005.A	Instrument discrepancies; U.S. official reserve assets	Row 4; Column 17	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 15	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713014003.A	Monetary authority; SDR certificates issued by federal government; asset	Row 5; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313112003.A	Federal government; Treasury currency; liability	Row 6; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313112003.A	Federal government; Treasury currency; liability	Row 6; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313112003.A	Federal government; Treasury currency; liability	Row 6; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713012003.A	Monetary authority; Treasury currency; asset	Row 6; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL713012003.A	Monetary authority; Treasury currency; asset	Row 6; Column 15	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -60,8 +60,8 @@ FL794110005.A	Domestic financial sectors; net interbank transactions; liability	
 FL904010005.A	Instrument discrepancies; net interbank transactions	Row 8; Column 17	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153020005.A	Households and nonprofit organizations; checkable deposits and currency; asset	Row 9; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143020005.A	Nonfinancial business; checkable deposits and currency; asset	Row 9; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213020005.A	State and local governments, excluding employee retirement funds; checkable deposits and currency; asset	Row 9; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313020005.A	Federal government; checkable deposits and currency; asset	Row 9; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313020005.A	Federal government; checkable deposits and currency; asset	Row 9; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213020005.A	State and local governments, excluding employee retirement funds; checkable deposits and currency; asset	Row 9; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383020005.A	Domestic nonfinancial sectors; checkable deposits and currency; asset	Row 9; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793020005.A	Domestic financial sectors; checkable deposits and currency; asset	Row 9; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793120005.A	Domestic financial sectors; checkable deposits and currency; liability	Row 9; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -71,8 +71,8 @@ FL793120005.A	Domestic financial sectors; checkable deposits and currency; liabi
 FL903020005.A	Instrument discrepancies; checkable deposits and currency (total mail float)	Row 9; Column 17	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153030005.A	Households and nonprofit organizations; total time and savings deposits; asset	Row 10; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143030005.A	Nonfinancial business; total time and savings deposits; asset	Row 10; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213030005.A	State and local governments, excluding employee retirement funds; total time and savings deposits; asset	Row 10; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313030003.A	Federal government; total time and savings deposits; asset	Row 10; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313030003.A	Federal government; total time and savings deposits; asset	Row 10; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213030005.A	State and local governments, excluding employee retirement funds; total time and savings deposits; asset	Row 10; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383030005.A	Domestic nonfinancial sectors; total time and savings deposits; asset	Row 10; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793030005.A	Domestic financial sectors; total time and savings deposits; asset	Row 10; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL703130005.A	Private depository institutions; total time and savings deposits; liability	Row 10; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -81,7 +81,7 @@ FL703130005.A	Private depository institutions; total time and savings deposits; 
 FL703130005.A	Private depository institutions; total time and savings deposits; liability	Row 10; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153034005.A	Households and nonprofit organizations; money market mutual fund shares; asset	Row 11; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143034005.A	Nonfinancial business; money market mutual fund shares; asset	Row 11; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213034003.A	State and local governments, excluding employee retirement funds; money market mutual fund shares; asset	Row 11; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213034003.A	State and local governments, excluding employee retirement funds; money market mutual fund shares; asset	Row 11; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383034005.A	Domestic nonfinancial sectors; money market mutual fund shares; asset	Row 11; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793034005.A	Domestic financial sectors; money market mutual fund shares; asset	Row 11; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL634090005.A	Money market mutual funds; total financial assets	Row 11; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -89,7 +89,7 @@ FL263034003.A	Rest of the world; U.S. money market mutual fund shares; asset	Row
 FL634090005.A	Money market mutual funds; total financial assets	Row 11; Column 15	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL634090005.A	Money market mutual funds; total financial assets	Row 11; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL102051003.A	Nonfinancial corporate business; security repurchase agreements; asset	Row 12; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL212051003.A	State and local governments, excluding employee retirement funds; security repurchase agreements; asset	Row 12; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL212051003.A	State and local governments, excluding employee retirement funds; security repurchase agreements; asset	Row 12; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL382051005.A	Domestic nonfinancial sectors; security repurchase agreements; asset	Row 12; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL792050005.A	Domestic financial sectors; federal funds and security repurchase agreements; asset	Row 12; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL792150005.A	Domestic financial sectors; federal funds and security repurchase agreements; liability	Row 12; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -102,10 +102,10 @@ FL154022005.A	Households and nonprofit organizations; debt securities; asset	Row
 FL163162003.A	Nonprofit organizations; municipal securities; liability	Row 13; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144022005.A	Nonfinancial business; debt securities; asset	Row 13; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL104122005.A	Nonfinancial corporate business; debt securities; liability	Row 13; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL214022005.A	State and local governments, excluding employee retirement funds; debt securities; asset	Row 13; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213162005.A	State and local governments, excluding employee retirement funds; municipal securities; liability	Row 13; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314022005.A	Federal government; debt securities; asset	Row 13; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314122005.A	Federal government; debt securities; liability	Row 13; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314022005.A	Federal government; debt securities; asset	Row 13; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314122005.A	Federal government; debt securities; liability	Row 13; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL214022005.A	State and local governments, excluding employee retirement funds; debt securities; asset	Row 13; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213162005.A	State and local governments, excluding employee retirement funds; municipal securities; liability	Row 13; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384022005.A	Domestic nonfinancial sectors; debt securities; asset	Row 13; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384122005.A	Domestic nonfinancial sectors; debt securities; liability	Row 13; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL794022005.A	Domestic financial sectors; debt securities; asset	Row 13; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -117,7 +117,7 @@ FL894122005.A	All sectors; total debt securities; liability	Row 13; Column 16	Fl
 FL163069103.A	Nonprofit organizations; commercial paper; asset	Row 14; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103069100.A	Nonfinancial corporate business; commercial paper; asset	Row 14; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103169100.A	Nonfinancial corporate business; commercial paper; liability	Row 14; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213069103.A	State and local governments, excluding employee retirement funds; commercial paper; asset	Row 14; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213069103.A	State and local governments, excluding employee retirement funds; commercial paper; asset	Row 14; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383069105.A	Domestic nonfinancial sectors; commercial paper; asset	Row 14; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103169100.A	Nonfinancial corporate business; commercial paper; liability	Row 14; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793069175.A	Domestic financial sectors; open market paper; asset	Row 14; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -128,8 +128,8 @@ FL893169175.A	All sectors; open market paper; liability	Row 14; Column 15	Flow o
 FL893169175.A	All sectors; open market paper; liability	Row 14; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153061105.A	Households and nonprofit organizations; Treasury securities; asset	Row 15; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143061105.A	Nonfinancial business; Treasury securities; asset	Row 15; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213061105.A	State and local governments, excluding employee retirement funds; Treasury securities, including SLGS; asset	Row 15; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313161105.A	Federal government; Treasury securities; liability	Row 15; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313161105.A	Federal government; Treasury securities; liability	Row 15; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213061105.A	State and local governments, excluding employee retirement funds; Treasury securities, including SLGS; asset	Row 15; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383061105.A	Domestic nonfinancial sectors; Treasury securities; asset	Row 15; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313161105.A	Federal government; Treasury securities; liability	Row 15; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793061105.A	Domestic financial sectors; Treasury securities; asset	Row 15; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -138,9 +138,9 @@ FL313161105.A	Federal government; Treasury securities; liability	Row 15; Column 
 FL313161105.A	Federal government; Treasury securities; liability	Row 15; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153061705.A	Households and nonprofit organizations; agency- and GSE-backed securities; asset	Row 16; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103061703.A	Nonfinancial corporate business; agency- and GSE-backed securities; asset	Row 16; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213061703.A	State and local governments, excluding employee retirement funds; agency- and GSE-backed securities; asset	Row 16; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313061703.A	Federal government; agency- and GSE-backed securities; asset	Row 16; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313161705.A	Federal government; budget agency securities; liability	Row 16; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313061703.A	Federal government; agency- and GSE-backed securities; asset	Row 16; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313161705.A	Federal government; budget agency securities; liability	Row 16; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213061703.A	State and local governments, excluding employee retirement funds; agency- and GSE-backed securities; asset	Row 16; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383061705.A	Domestic nonfinancial sectors; agency- and GSE-backed securities; asset	Row 16; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313161705.A	Federal government; budget agency securities; liability	Row 16; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793061705.A	Domestic financial sectors; agency- and GSE-backed securities; asset	Row 16; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -152,8 +152,8 @@ FL153062005.A	Households and nonprofit organizations; municipal securities; asse
 FL163162003.A	Nonprofit organizations; municipal securities; liability	Row 17; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143062005.A	Nonfinancial business; municipal securities; asset	Row 17; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103162000.A	Nonfinancial corporate business; municipal securities; liability	Row 17; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213062003.A	State and local governments, excluding employee retirement funds; municipal securities; asset	Row 17; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213162005.A	State and local governments, excluding employee retirement funds; municipal securities; liability	Row 17; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213062003.A	State and local governments, excluding employee retirement funds; municipal securities; asset	Row 17; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213162005.A	State and local governments, excluding employee retirement funds; municipal securities; liability	Row 17; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383062005.A	Domestic nonfinancial sectors; municipal securities; asset	Row 17; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383162005.A	Domestic nonfinancial sectors; municipal securities; liability	Row 17; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793062005.A	Domestic financial sectors; municipal securities; asset	Row 17; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -162,8 +162,8 @@ FL383162005.A	Domestic nonfinancial sectors; municipal securities; liability	Row
 FL383162005.A	Domestic nonfinancial sectors; municipal securities; liability	Row 17; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153063005.A	Households and nonprofit organizations; corporate and foreign bonds; asset	Row 18; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103163003.A	Nonfinancial corporate business; corporate bonds; liability	Row 18; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213063003.A	State and local governments, excluding employee retirement funds; corporate and foreign bonds; asset	Row 18; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313063763.A	Federal government; corporate bonds issued by commercial banking under TARP; asset	Row 18; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313063763.A	Federal government; corporate bonds issued by commercial banking under TARP; asset	Row 18; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213063003.A	State and local governments, excluding employee retirement funds; corporate and foreign bonds; asset	Row 18; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383063005.A	Domestic nonfinancial sectors; corporate and foreign bonds; asset	Row 18; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103163003.A	Nonfinancial corporate business; corporate bonds; liability	Row 18; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793063005.A	Domestic financial sectors; corporate and foreign bonds; asset	Row 18; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -176,10 +176,10 @@ FL154023005.A	Households and nonprofit organizations; loans; asset	Row 19; Colum
 FL154123005.A	Households and nonprofit organizations; loans; liability	Row 19; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144023005.A	Nonfinancial business; loans; asset	Row 19; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL144123005.A	Nonfinancial business; loans; liability	Row 19; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213065005.A	State and local governments, excluding employee retirement funds; total mortgages; asset	Row 19; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213169203.A	State and local governments, excluding employee retirement funds; U.S. government loans; liability	Row 19; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL314023005.A	Federal government; loans; asset	Row 19; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313165403.A	Federal government; multifamily residential mortgages; liability	Row 19; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL314023005.A	Federal government; loans; asset	Row 19; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313165403.A	Federal government; multifamily residential mortgages; liability	Row 19; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213065005.A	State and local governments, excluding employee retirement funds; total mortgages; asset	Row 19; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213169203.A	State and local governments, excluding employee retirement funds; U.S. government loans; liability	Row 19; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384023005.A	Domestic nonfinancial sectors; loans; asset	Row 19; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL384123005.A	Domestic nonfinancial sectors; loans; liability	Row 19; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL794023005.A	Domestic financial sectors; loans; asset	Row 19; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -199,8 +199,8 @@ FL793068005.A	Domestic financial sectors; depository institution loans n.e.c.; a
 FL153069005.A	Households and nonprofit organizations; other loans and advances; asset	Row 21; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153169005.A	Households and nonprofit organizations; other loans and advances; liability	Row 21; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143169005.A	Nonfinancial business; other loans and advances; liability	Row 21; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213169203.A	State and local governments, excluding employee retirement funds; U.S. government loans; liability	Row 21; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313069005.A	Federal government; other loans and advances; asset	Row 21; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313069005.A	Federal government; other loans and advances; asset	Row 21; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213169203.A	State and local governments, excluding employee retirement funds; U.S. government loans; liability	Row 21; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383069005.A	Domestic nonfinancial sectors; other loans and advances; asset	Row 21; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383169005.A	Domestic nonfinancial sectors; other loans and advances; liability	Row 21; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793069005.A	Domestic financial sectors; other loans and advances; asset	Row 21; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -213,9 +213,9 @@ FL153065005.A	Households and nonprofit organizations; total mortgages; asset	Row
 FL153165005.A	Households and nonprofit organizations; total mortgages; liability	Row 22; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143065005.A	Nonfinancial business; total mortgages; asset	Row 22; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143165005.A	Nonfinancial business; total mortgages; liability	Row 22; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213065005.A	State and local governments, excluding employee retirement funds; total mortgages; asset	Row 22; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313065005.A	Federal government; total mortgages; asset	Row 22; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313165403.A	Federal government; multifamily residential mortgages; liability	Row 22; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313065005.A	Federal government; total mortgages; asset	Row 22; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313165403.A	Federal government; multifamily residential mortgages; liability	Row 22; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213065005.A	State and local governments, excluding employee retirement funds; total mortgages; asset	Row 22; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383065005.A	Domestic nonfinancial sectors; total mortgages; asset	Row 22; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383165005.A	Domestic nonfinancial sectors; total mortgages; liability	Row 22; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793065005.A	Domestic financial sectors; total mortgages; asset	Row 22; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -225,7 +225,7 @@ FL893065005.A	All sectors; total mortgages; asset	Row 22; Column 16	Flow of Fund
 FL163066223.A	Nonprofit organizations; consumer credit, student loans; asset	Row 23; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153166000.A	Households and nonprofit organizations; consumer credit; liability	Row 23; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143066005.A	Nonfinancial business; consumer credit; asset	Row 23; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313066220.A	Federal government; consumer credit, student loans; asset	Row 23; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313066220.A	Federal government; consumer credit, student loans; asset	Row 23; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383066005.A	Domestic nonfinancial sectors; consumer credit; asset	Row 23; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153166000.A	Households and nonprofit organizations; consumer credit; liability	Row 23; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793066005.A	Domestic financial sectors; consumer credit; asset	Row 23; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -233,8 +233,8 @@ FL153166000.A	Households and nonprofit organizations; consumer credit; liability
 FL153166000.A	Households and nonprofit organizations; consumer credit; liability	Row 23; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153064105.A	Households and nonprofit organizations; corporate equities; asset	Row 24; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103164103.A	Nonfinancial corporate business; corporate equities; liability	Row 24; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213064103.A	State and local governments, excluding employee retirement funds; corporate equities; asset	Row 24; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313064105.A	Federal government; corporate equities; asset	Row 24; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313064105.A	Federal government; corporate equities; asset	Row 24; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213064103.A	State and local governments, excluding employee retirement funds; corporate equities; asset	Row 24; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383064105.A	Domestic nonfinancial sectors; corporate equities; asset	Row 24; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103164103.A	Nonfinancial corporate business; corporate equities; liability	Row 24; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793064105.A	Domestic financial sectors; corporate equities; asset	Row 24; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -245,7 +245,7 @@ FL893064105.A	All sectors; corporate equities; asset	Row 24; Column 15	Flow of F
 FL893064105.A	All sectors; corporate equities; asset	Row 24; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153064205.A	Households and nonprofit organizations; mutual fund shares; asset	Row 25; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL103064203.A	Nonfinancial corporate business; mutual fund shares; asset	Row 25; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213064203.A	State and local governments, excluding employee retirement funds; mutual fund shares; asset	Row 25; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213064203.A	State and local governments, excluding employee retirement funds; mutual fund shares; asset	Row 25; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383064205.A	Domestic nonfinancial sectors; mutual fund shares; asset	Row 25; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793064205.A	Domestic financial sectors; mutual fund shares; asset	Row 25; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL653164205.A	Mutual funds; mutual fund shares; liability	Row 25; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -255,10 +255,10 @@ FL653164205.A	Mutual funds; mutual fund shares; liability	Row 25; Column 16	Flow
 FL163170003.A	Nonprofit organizations; trade payables; liability	Row 26; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143070005.A	Nonfinancial business; trade receivables; asset	Row 26; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143170005.A	Nonfinancial business; trade payables; liability	Row 26; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213070003.A	State and local governments, excluding employee retirement funds; trade receivables; asset	Row 26; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213170003.A	State and local governments, excluding employee retirement funds; trade payables; liability	Row 26; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313070000.A	Federal government; trade receivables; asset	Row 26; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313170005.A	Federal government; trade payables; liability	Row 26; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313070000.A	Federal government; trade receivables; asset	Row 26; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313170005.A	Federal government; trade payables; liability	Row 26; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213070003.A	State and local governments, excluding employee retirement funds; trade receivables; asset	Row 26; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213170003.A	State and local governments, excluding employee retirement funds; trade payables; liability	Row 26; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383070005.A	Domestic nonfinancial sectors; trade receivables; asset	Row 26; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383170005.A	Domestic nonfinancial sectors; trade payables; liability	Row 26; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793070005.A	Domestic financial sectors; trade receivables; asset	Row 26; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -269,7 +269,7 @@ FL893070005.A	All sectors; trade receivables; asset	Row 26; Column 15	Flow of Fu
 FL893170005.A	All sectors; trade payables; liability	Row 26; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL903070005.A	Instrument discrepancies; trade receivables	Row 26; Column 17	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153040005.A	Households and nonprofit organizations; life insurance reserves; asset	Row 27; Column 1	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313140003.A	Federal government; life insurance reserves; liability	Row 27; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313140003.A	Federal government; life insurance reserves; liability	Row 27; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153040005.A	Households and nonprofit organizations; life insurance reserves; asset	Row 27; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL313140003.A	Federal government; life insurance reserves; liability	Row 27; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793040005.A	Domestic financial sectors; life insurance reserves; asset	Row 27; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -282,8 +282,8 @@ FL153050005.A	Households and nonprofit organizations; pension entitlements; asse
 FL153050005.A	Households and nonprofit organizations; pension entitlements; asset	Row 28; Column 15	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL153050005.A	Households and nonprofit organizations; pension entitlements; asset	Row 28; Column 16	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143178005.A	Nonfinancial business; taxes payable; liability	Row 29; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213078005.A	State and local governments, excluding employee retirement funds; taxes receivable; asset	Row 29; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313078005.A	Federal government; taxes receivable; asset	Row 29; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313078005.A	Federal government; taxes receivable; asset	Row 29; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213078005.A	State and local governments, excluding employee retirement funds; taxes receivable; asset	Row 29; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383078005.A	Domestic nonfinancial sectors; taxes receivable; asset	Row 29; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143178005.A	Nonfinancial business; taxes payable; liability	Row 29; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793178005.A	Domestic financial sectors; taxes payable (net); liability	Row 29; Column 12	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
@@ -313,10 +313,10 @@ FL153090005.A	Households and nonprofit organizations; total miscellaneous assets
 FL543077073.A	Life insurance companies, general accounts; deferred and unpaid life insurance premiums; asset	Row 33; Column 2	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143090005.A	Nonfinancial business; total miscellaneous assets	Row 33; Column 3	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL143190005.A	Nonfinancial business; total miscellaneous liabilities	Row 33; Column 4	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL213093003.A	State and local governments, excluding employee retirement funds; unidentified miscellaneous assets	Row 33; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL223073045.A	State and local government employee defined benefit retirement funds; claims of pension fund on sponsor; asset	Row 33; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313090005.A	Federal government; total miscellaneous assets	Row 33; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
-FL313190005.A	Federal government; total miscellaneous liabilities	Row 33; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313090005.A	Federal government; total miscellaneous assets	Row 33; Column 5	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL313190005.A	Federal government; total miscellaneous liabilities	Row 33; Column 6	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL213093003.A	State and local governments, excluding employee retirement funds; unidentified miscellaneous assets	Row 33; Column 7	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
+FL223073045.A	State and local government employee defined benefit retirement funds; claims of pension fund on sponsor; asset	Row 33; Column 8	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383090005.A	Domestic nonfinancial sectors; total miscellaneous assets	Row 33; Column 9	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL383190005.A	Domestic nonfinancial sectors; total miscellaneous liabilities	Row 33; Column 10	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities
 FL793090005.A	Domestic financial sectors; total miscellaneous assets	Row 33; Column 11	Flow of Funds Matrix	Millions of dollars; All Sectors -- Assets and Liabilities

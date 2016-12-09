@@ -25,12 +25,12 @@ FL763061100.Q	U.S.-chartered depository institutions; Treasury securities; asset
 FL753061103.Q	Foreign banking offices in the U.S.; Treasury securities; asset	Line 25	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
 FL743061103.Q	Banks in U.S.-affiliated areas; Treasury securities; asset	Line 26	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
 FL473061105.Q	Credit unions; Treasury securities; asset	Line 27	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL513061103.Q	Property-casualty insurance companies; Treasury securities; asset	Line 28	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL513061113.Q	Property-casualty insurance companies; Treasury bills; asset	Line 29	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL513061125.Q	Property-casualty insurance companies; other Treasury securities, excluding Treasury bills; asset	Line 30	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL543061105.Q	Life insurance companies; Treasury securities; asset	Line 31	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL543061113.Q	Life insurance companies; Treasury bills; asset	Line 32	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
-FL543061125.Q	Life insurance companies; other Treasury securities, excluding Treasury bills; asset	Line 33	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM513061103.Q	Property-casualty insurance companies; Treasury securities; asset	Line 28	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM513061113.Q	Property-casualty insurance companies; Treasury bills; asset	Line 29	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM513061125.Q	Property-casualty insurance companies; other Treasury securities, excluding Treasury bills; asset	Line 30	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM543061105.Q	Life insurance companies; Treasury securities; asset	Line 31	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM543061113.Q	Life insurance companies; Treasury bills; asset	Line 32	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
+LM543061125.Q	Life insurance companies; other Treasury securities, excluding Treasury bills; asset	Line 33	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
 FL573061105.Q	Private pension funds; Treasury securities; asset	Line 34	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
 FL573061143.Q	Private defined benefit pension funds; Treasury securities; asset	Line 35	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted
 FL573061133.Q	Private defined contribution pension funds; Treasury securities; asset	Line 36	Table L.210 Treasury Securities	Millions of dollars; not seasonally adjusted

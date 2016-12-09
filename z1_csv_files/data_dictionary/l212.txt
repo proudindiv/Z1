@@ -13,8 +13,8 @@ FL763062000.Q	U.S.-chartered depository institutions; municipal securities; asse
 FL753062003.Q	Foreign banking offices in the U.S.; municipal securities; asset	Line 13	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
 FL743062003.Q	Banks in U.S.-affiliated areas; municipal securities; asset	Line 14	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
 FL473062005.Q	Credit unions; municipal securities; asset	Line 15	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
-FL513062003.Q	Property-casualty insurance companies; municipal securities; asset	Line 16	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
-FL543062005.Q	Life insurance companies; municipal securities; asset	Line 17	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+LM513062003.Q	Property-casualty insurance companies; municipal securities; asset	Line 16	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
+LM543062005.Q	Life insurance companies; municipal securities; asset	Line 17	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
 FL223062043.Q	State and local government employee defined benefit retirement funds; municipal securities; asset	Line 18	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
 FL633062000.Q	Money market mutual funds; municipal securities; asset	Line 19	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted
 LM653062003.Q	Mutual funds; municipal securities; asset (market value)	Line 20	Table L.212 Municipal Securities	Millions of dollars; not seasonally adjusted

@@ -22,8 +22,8 @@ FL713069603.Q	Monetary authority; bankers' acceptances; asset	Line 21	Table L.20
 FL763069175.Q	U.S.-chartered depository institutions; open market paper; asset	Line 22	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
 FL753069603.Q	Foreign banking offices in the U.S.; bankers' acceptances; asset	Line 23	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
 FL473069153.Q	Credit unions; commercial paper held by Corporate Credit Unions; asset	Line 24	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
-FL513069103.Q	Property-casualty insurance companies; commercial paper; asset	Line 25	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
-FL543069105.Q	Life insurance companies; commercial paper; asset	Line 26	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
+LM513069103.Q	Property-casualty insurance companies; commercial paper; asset	Line 25	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
+LM543069105.Q	Life insurance companies; commercial paper; asset	Line 26	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
 FL573069105.Q	Private pension funds; total commercial paper; asset	Line 27	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
 FL223069143.Q	State and local government employee defined benefit retirement funds; commercial paper; asset	Line 28	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted
 FL633069175.Q	Money market mutual funds; open market paper; asset	Line 29	Table L.209 Open Market Paper	Millions of dollars; not seasonally adjusted

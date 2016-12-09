@@ -29,7 +29,7 @@ FU763090005.Q	U.S.-chartered depository institutions; total miscellaneous assets
 FU753093005.Q	Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous assets	Line 29	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU743093005.Q	Banks in U.S.-affiliated areas; unidentified miscellaneous assets	Line 30	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU473090005.Q	Credit unions; total miscellaneous assets	Line 31	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FU513092403.Q	Property-casualty insurance companies; equity in FHLB; asset	Line 32	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU513090005.Q	Property-casualty insurance companies; total miscellaneous assets	Line 32	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU543090005.Q	Life insurance companies; total miscellaneous assets	Line 33	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU573090005.Q	Private pension funds; total miscellaneous assets	Line 34	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU343073005.Q	Federal government retirement funds; claims of pension fund on sponsor; asset	Line 35	Table FU.231 Total Miscellaneous Financial Claims	Millions of dollars; quarterly figures are unadjusted quarterly rates

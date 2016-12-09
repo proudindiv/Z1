@@ -19,7 +19,7 @@ FL663168005.Q	Security brokers and dealers; depository institution loans n.e.c.;
 FL153067005.Q	Households and nonprofit organizations; cash accounts at brokers and dealers	Line 19	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
 FL663170003.Q	Security brokers and dealers; trade payables; liability	Line 20	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
 FL663178003.Q	Security brokers and dealers; taxes payable; liability	Line 21	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
-FL663192003.Q	Security brokers and dealers; foreign direct investment in U.S.; liability	Line 22	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
+FL663192005.Q	Security brokers and dealers; foreign direct investment in U.S., adjusted for U.S. Intermediate Holding Companies; liability	Line 22	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
 FL663190005.Q	Security brokers and dealers; total miscellaneous liabilities	Line 23	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
 FL663194005.Q	Security brokers and dealers; equity investment by parent companies; liability	Line 24	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted
 FL663193005.Q	Security brokers and dealers; unidentified miscellaneous liabilities	Line 25	Table L.130 Security Brokers and Dealers	Millions of dollars; not seasonally adjusted

@@ -22,7 +22,7 @@ FU153067005.Q	Households and nonprofit organizations; cash accounts at brokers a
 FU663164103.Q	Security brokers and dealers; corporate equities; liability	Line 22	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU663170003.Q	Security brokers and dealers; trade payables; liability	Line 23	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU663178003.Q	Security brokers and dealers; taxes payable; liability	Line 24	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FU663192003.Q	Security brokers and dealers; foreign direct investment in U.S.; liability	Line 25	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU663192005.Q	Security brokers and dealers; foreign direct investment in U.S., adjusted for U.S. Intermediate Holding Companies; liability	Line 25	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU663190005.Q	Security brokers and dealers; total miscellaneous liabilities	Line 26	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU663194005.Q	Security brokers and dealers; equity investment by parent companies; liability	Line 27	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FU663193005.Q	Security brokers and dealers; unidentified miscellaneous liabilities	Line 28	Table FU.130 Security Brokers and Dealers	Millions of dollars; quarterly figures are unadjusted quarterly rates

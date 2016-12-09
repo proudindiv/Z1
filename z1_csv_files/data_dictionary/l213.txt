@@ -21,12 +21,12 @@ FL743063005.Q	Banks in U.S.-affiliated areas; corporate and foreign bonds; asset
 FL473063005.Q	Credit unions; corporate and foreign bonds; asset	Line 21	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
 FL473063605.Q	Credit unions; mortgage-backed securities and other asset-backed bonds; asset	Line 22	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
 FL473063095.Q	Credit unions; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 23	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL513063003.Q	Property-casualty insurance companies; corporate and foreign bonds; asset	Line 24	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL513063603.Q	Property-casualty insurance companies; mortgage-backed securities and other asset-backed bonds; asset	Line 25	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL513063095.Q	Property-casualty insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 26	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 27	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL543063673.Q	Life insurance companies, general accounts; mortgage-backed securities and other asset-backed bonds; asset	Line 28	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
-FL543063095.Q	Life insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 29	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM513063003.Q	Property-casualty insurance companies; corporate and foreign bonds; asset	Line 24	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM513063603.Q	Property-casualty insurance companies; mortgage-backed securities and other asset-backed bonds; asset	Line 25	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM513063095.Q	Property-casualty insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 26	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 27	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM543063673.Q	Life insurance companies, general accounts; mortgage-backed securities and other asset-backed bonds; asset	Line 28	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
+LM543063095.Q	Life insurance companies; corporate and foreign bonds, excluding mortgage-backed securities and other asset-backed bonds; asset	Line 29	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
 FL573063005.Q	Private pension funds; corporate and foreign bonds; asset	Line 30	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
 FL343063005.Q	Federal government retirement funds; corporate and foreign bonds; asset	Line 31	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted
 FL223063045.Q	State and local government employee defined benefit retirement funds; corporate and foreign bonds; asset	Line 32	Table L.213 Corporate and Foreign Bonds	Millions of dollars; not seasonally adjusted

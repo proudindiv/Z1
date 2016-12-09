@@ -49,33 +49,34 @@ FA713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 48	
 FA713193005.A	Monetary authority; unidentified miscellaneous liabilities	Line 49	Table S.61.a Central Bank	Millions of dollars; quarterly figures are seasonally adjusted annual rates
 FA715000005.A	Monetary authority; net lending (+) or borrowing (-) (financial account)	Line 50	Table S.61.a Central Bank	Millions of dollars; quarterly figures are seasonally adjusted annual rates
 FV718090185.A	Monetary authority; total other volume changes (IMA)	Line 51	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FV718090085.A	Monetary authority; other volume changes (IMA)	Line 52	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FU717005045.A	Monetary authority; statistical discrepancy (IMA)	Line 53	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR712010095.A	Monetary authority; nonfinancial assets (does not include land)	Line 54	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 55	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 56	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 57	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR718200005.A	Monetary authority; changes in net worth due to nominal holding gains/losses (IMA)	Line 58	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FC712090095.A	Monetary authority; net worth (IMA)	Line 59	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL712000095.A	Monetary authority; total assets (does not include land)	Line 60	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL712010095.A	Monetary authority; nonfinancial assets (does not include land)	Line 61	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 62	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 63	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 64	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714090005.A	Monetary authority; total financial assets	Line 65	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713011203.A	Monetary authority; monetary gold; asset	Line 66	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714000005.A	Monetary authority; total currency and deposits; asset	Line 67	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714022005.A	Monetary authority; debt securities; asset	Line 68	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713069603.A	Monetary authority; bankers' acceptances; asset	Line 69	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713061100.A	Monetary authority; Treasury securities; asset	Line 70	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713061705.A	Monetary authority; agency- and GSE-backed securities; asset	Line 71	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714041005.A	Monetary authority; loans including security repurchase agreements, excluding mortgages; asset	Line 72	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713064103.A	Monetary authority; corporate equities; asset	Line 73	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713096105.A	Monetary authority; miscellaneous assets and SDR certificates (IMA)	Line 74	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL712100005.A	Monetary authority; total liabilities and net worth (IMA)	Line 75	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714190005.A	Monetary authority; total liabilities	Line 76	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL714100005.A	Monetary authority; total currency and deposits; liability	Line 77	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL712151003.A	Monetary authority; security repurchase agreements; liability	Line 78	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 79	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL713193005.A	Monetary authority; unidentified miscellaneous liabilities	Line 80	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
-FL712090095.A	Monetary authority; net worth (IMA)	Line 81	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FV712010095.A	Monetary authority; nonfinancial assets (does not include land)	Line 52	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FV718090085.A	Monetary authority; other volume changes (IMA)	Line 53	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FU717005045.A	Monetary authority; statistical discrepancy (IMA)	Line 54	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR712010095.A	Monetary authority; nonfinancial assets (does not include land)	Line 55	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 56	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 57	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 58	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR718200005.A	Monetary authority; changes in net worth due to nominal holding gains/losses (IMA)	Line 59	Table S.61.a Central Bank	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FC712090095.A	Monetary authority; net worth (IMA)	Line 60	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL712000095.A	Monetary authority; total assets (does not include land)	Line 61	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL712010095.A	Monetary authority; nonfinancial assets (does not include land)	Line 62	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL715013665.A	Monetary authority; nonresidential structures, current cost basis	Line 63	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL715013265.A	Monetary authority; nonresidential equipment, current cost basis	Line 64	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL715013765.A	Monetary authority; nonresidential intellectual property products, current cost basis	Line 65	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714090005.A	Monetary authority; total financial assets	Line 66	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713011203.A	Monetary authority; monetary gold; asset	Line 67	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714000005.A	Monetary authority; total currency and deposits; asset	Line 68	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714022005.A	Monetary authority; debt securities; asset	Line 69	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713069603.A	Monetary authority; bankers' acceptances; asset	Line 70	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713061100.A	Monetary authority; Treasury securities; asset	Line 71	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713061705.A	Monetary authority; agency- and GSE-backed securities; asset	Line 72	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714041005.A	Monetary authority; loans including security repurchase agreements, excluding mortgages; asset	Line 73	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713064103.A	Monetary authority; corporate equities; asset	Line 74	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713096105.A	Monetary authority; miscellaneous assets and SDR certificates (IMA)	Line 75	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL712100005.A	Monetary authority; total liabilities and net worth (IMA)	Line 76	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714190005.A	Monetary authority; total liabilities	Line 77	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL714100005.A	Monetary authority; total currency and deposits; liability	Line 78	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL712151003.A	Monetary authority; security repurchase agreements; liability	Line 79	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 80	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL713193005.A	Monetary authority; unidentified miscellaneous liabilities	Line 81	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted
+FL712090095.A	Monetary authority; net worth (IMA)	Line 82	Table S.61.a Central Bank	Millions of dollars; not seasonally adjusted

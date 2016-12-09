@@ -73,36 +73,37 @@ FR592010095.A	Pension funds; nonfinancial assets (does not include land)	Line 72
 FR595013665.A	Pension funds; nonresidential structures, current cost basis	Line 73	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR595013265.A	Pension funds; nonresidential equipment, current cost basis	Line 74	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR595013765.A	Pension funds; nonresidential intellectual property products, current cost basis	Line 75	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR593081005.A	Pension funds; equity and investment fund shares; asset (IMA)	Line 76	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR594090085.A	Pension funds; revaluation of equity and investment fund shares and insurance, pension, and standardized guarantee schemes; asset (IMA)	Line 76	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR593064105.A	Pension funds; corporate equities; asset	Line 77	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR593064205.A	Pension funds; mutual fund shares; asset	Line 78	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR594190005.A	Pension funds; total liabilities	Line 79	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR598200005.A	Pension funds; changes in net worth due to nominal holding gains/losses (IMA)	Line 80	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FC592090095.A	Pension funds; net worth (IMA)	Line 81	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL592000095.A	Pension funds; total assets (does not include land)	Line 82	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL592010095.A	Pension funds; nonfinancial assets (does not include land)	Line 83	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL595013665.A	Pension funds; nonresidential structures, current cost basis	Line 84	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL595013265.A	Pension funds; nonresidential equipment, current cost basis	Line 85	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL595013765.A	Pension funds; nonresidential intellectual property products, current cost basis	Line 86	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL594090005.A	Pension funds; total financial assets	Line 87	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL594000005.A	Pension funds; total currency and deposits; asset	Line 88	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593020005.A	Pension funds; checkable deposits and currency; asset	Line 89	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593030005.A	Pension funds; total time and savings deposits; asset	Line 90	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL594022005.A	Pension funds; debt securities; asset	Line 91	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593069105.A	Pension funds; commercial paper; asset	Line 92	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593061105.A	Pension funds; Treasury securities; asset	Line 93	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593061705.A	Pension funds; agency- and GSE-backed securities; asset	Line 94	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL223062043.A	State and local government employee defined benefit retirement funds; municipal securities; asset	Line 95	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593063005.A	Pension funds; corporate and foreign bonds; asset	Line 96	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL594035005.A	Pension funds; total loans including security repurchase agreements; asset	Line 97	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL592051005.A	Pension funds; security repurchase agreements; asset	Line 98	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593065005.A	Pension funds; total mortgages; asset	Line 99	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593081005.A	Pension funds; equity and investment fund shares; asset (IMA)	Line 100	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-LM593064105.A	Pension funds; corporate equities; asset	Line 101	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-LM593064205.A	Pension funds; mutual fund shares; asset	Line 102	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593034005.A	Pension funds; money market mutual fund shares; asset	Line 103	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593052025.A	Pension funds; retirement entitlements; asset (IMA)	Line 104	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL593093005.A	Pension funds; unidentified miscellaneous assets	Line 105	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL592000095.A	Pension funds; total assets (does not include land)	Line 106	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL594190005.A	Pension funds; total liabilities	Line 107	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
-FL592090095.A	Pension funds; net worth (IMA)	Line 108	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FR593052025.A	Pension funds; retirement entitlements; asset (IMA)	Line 79	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR594190005.A	Pension funds; total liabilities	Line 80	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR598200005.A	Pension funds; changes in net worth due to nominal holding gains/losses (IMA)	Line 81	Table S.64.a Pension Funds	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FC592090095.A	Pension funds; net worth (IMA)	Line 82	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL592000095.A	Pension funds; total assets (does not include land)	Line 83	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL592010095.A	Pension funds; nonfinancial assets (does not include land)	Line 84	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL595013665.A	Pension funds; nonresidential structures, current cost basis	Line 85	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL595013265.A	Pension funds; nonresidential equipment, current cost basis	Line 86	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL595013765.A	Pension funds; nonresidential intellectual property products, current cost basis	Line 87	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL594090005.A	Pension funds; total financial assets	Line 88	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL594000005.A	Pension funds; total currency and deposits; asset	Line 89	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593020005.A	Pension funds; checkable deposits and currency; asset	Line 90	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593030005.A	Pension funds; total time and savings deposits; asset	Line 91	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL594022005.A	Pension funds; debt securities; asset	Line 92	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593069105.A	Pension funds; commercial paper; asset	Line 93	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593061105.A	Pension funds; Treasury securities; asset	Line 94	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593061705.A	Pension funds; agency- and GSE-backed securities; asset	Line 95	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL223062043.A	State and local government employee defined benefit retirement funds; municipal securities; asset	Line 96	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593063005.A	Pension funds; corporate and foreign bonds; asset	Line 97	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL594035005.A	Pension funds; total loans including security repurchase agreements; asset	Line 98	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL592051005.A	Pension funds; security repurchase agreements; asset	Line 99	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593065005.A	Pension funds; total mortgages; asset	Line 100	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593081005.A	Pension funds; equity and investment fund shares; asset (IMA)	Line 101	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+LM593064105.A	Pension funds; corporate equities; asset	Line 102	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+LM593064205.A	Pension funds; mutual fund shares; asset	Line 103	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593034005.A	Pension funds; money market mutual fund shares; asset	Line 104	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593052025.A	Pension funds; retirement entitlements; asset (IMA)	Line 105	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL593093005.A	Pension funds; unidentified miscellaneous assets	Line 106	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL592000095.A	Pension funds; total assets (does not include land)	Line 107	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL594190005.A	Pension funds; total liabilities	Line 108	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted
+FL592090095.A	Pension funds; net worth (IMA)	Line 109	Table S.64.a Pension Funds	Millions of dollars; not seasonally adjusted

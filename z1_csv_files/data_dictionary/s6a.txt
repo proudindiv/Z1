@@ -83,65 +83,67 @@ FR792010095.A	Domestic financial sectors; nonfinancial assets (does not include 
 FR795013665.A	Domestic financial sectors; nonresidential structures, current cost basis	Line 83	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR795013265.A	Domestic financial sectors; nonresidential equipment, current cost basis	Line 84	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
 FR795013765.A	Domestic financial sectors; nonresidential intellectual property products, current cost basis	Line 85	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793081085.A	Domestic financial sectors; revaluation of equity and investment fund shares; asset (IMA)	Line 86	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793064105.A	Domestic financial sectors; corporate equities; asset	Line 87	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793064205.A	Domestic financial sectors; mutual fund shares; asset	Line 88	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793092005.A	Domestic financial sectors; U.S. direct investment abroad; asset	Line 89	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793181085.A	Domestic financial sectors; revaluation of equity and investment fund shares and pension entitlements; liability (IMA)	Line 90	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793164105.A	Domestic financial sectors; corporate equities; liability	Line 91	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR653164205.A	Mutual funds; mutual fund shares; liability	Line 92	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793192005.A	Domestic financial sectors; foreign direct investment in U.S.; liability	Line 93	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR662090205.A	Security brokers and dealers; proprietors' equity in noncorporate business	Line 94	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR153050005.A	Households and nonprofit organizations; pension entitlements; asset	Line 95	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR793194005.A	Domestic financial sectors; equity investment by parent companies; liability	Line 96	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FR798200005.A	Domestic financial sectors; changes in net worth due to nominal holding gains/losses (IMA)	Line 97	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
-FC792090095.A	Domestic financial sectors; net worth (IMA)	Line 98	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL792000095.A	Domestic financial sectors; total assets (does not include land)	Line 99	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL792010095.A	Domestic financial sectors; nonfinancial assets (does not include land)	Line 100	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL795013665.A	Domestic financial sectors; nonresidential structures, current cost basis	Line 101	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL795013265.A	Domestic financial sectors; nonresidential equipment, current cost basis	Line 102	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL795013765.A	Domestic financial sectors; nonresidential intellectual property products, current cost basis	Line 103	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794090005.A	Domestic financial sectors; total financial assets	Line 104	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL713011203.A	Monetary authority; monetary gold; asset	Line 105	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794000005.A	Domestic financial sectors; total currency and deposits; asset	Line 106	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794022005.A	Domestic financial sectors; debt securities; asset	Line 107	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793069175.A	Domestic financial sectors; open market paper; asset	Line 108	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793061105.A	Domestic financial sectors; Treasury securities; asset	Line 109	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793061705.A	Domestic financial sectors; agency- and GSE-backed securities; asset	Line 110	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793062005.A	Domestic financial sectors; municipal securities; asset	Line 111	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793063005.A	Domestic financial sectors; corporate and foreign bonds; asset	Line 112	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794035005.A	Domestic financial sectors; total loans including security repurchase agreements; asset	Line 113	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794041005.A	Domestic financial sectors; loans including security repurchase agreements, excluding mortgages; asset	Line 114	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793065005.A	Domestic financial sectors; total mortgages; asset	Line 115	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793081005.A	Domestic financial sectors; equity and investment fund shares; asset (IMA)	Line 116	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-LM793064105.A	Domestic financial sectors; corporate equities; asset	Line 117	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-LM793064205.A	Domestic financial sectors; mutual fund shares; asset	Line 118	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793034005.A	Domestic financial sectors; money market mutual fund shares; asset	Line 119	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793092405.A	Domestic financial sectors; equity in FHLB; asset	Line 120	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793092005.A	Domestic financial sectors; U.S. direct investment abroad; asset	Line 121	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 122	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793094005.A	Domestic financial sectors; equity investment in own subsidiaries; asset	Line 123	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793052005.A	Domestic financial sectors; insurance, pension and standardized guarantee schemes; asset (IMA)	Line 124	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793096005.A	Domestic financial sectors; other accounts receivable; asset (IMA)	Line 125	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL792100005.A	Domestic financial sectors; total liabilities and net worth (IMA)	Line 126	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794194005.A	Domestic financial sectors; total liabilities and equity	Line 127	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794100005.A	Domestic financial sectors; total currency and deposits excluding Federal Reserve loans to domestic banks; liability	Line 128	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794122005.A	Domestic financial sectors; debt securities; liability	Line 129	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL423161705.A	Government-sponsored enterprises and federally related mortgage pools; U.S. government agency securities; liability	Line 130	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793163005.A	Domestic financial sectors; corporate and foreign bonds; liability	Line 131	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793169175.A	Domestic financial sectors; open market paper; liability	Line 132	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794135005.A	Domestic financial sectors; total loans including security repurchase agreements; liability	Line 133	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL794141005.A	Domestic financial sectors; short-term loans including security repurchase agreements; liability	Line 134	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL643165005.A	Real estate investment trusts; total mortgages; liability	Line 135	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793181005.A	Domestic financial sectors; equity and investment fund shares; liability (IMA)	Line 136	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL634090005.A	Money market mutual funds; total financial assets	Line 137	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-LM793164105.A	Domestic financial sectors; corporate equities; liability	Line 138	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-LM653164205.A	Mutual funds; mutual fund shares; liability	Line 139	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL403192405.A	Government-sponsored enterprises; equity in government-sponsored enterprises (GSEs); liability	Line 140	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793192005.A	Domestic financial sectors; foreign direct investment in U.S.; liability	Line 141	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL662090205.A	Security brokers and dealers; proprietors' equity in noncorporate business	Line 142	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793194005.A	Domestic financial sectors; equity investment by parent companies; liability	Line 143	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 144	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL583152005.A	Insurance companies and pension funds; insurance, pension and standardized guarantee schemes; liability (IMA)	Line 145	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL793196005.A	Domestic financial sectors; other accounts payable; liability (IMA)	Line 146	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
-FL792090095.A	Domestic financial sectors; net worth (IMA)	Line 147	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FR794090085.A	Domestic financial sectors; revaluation of debt securities, equity and investment fund shares, and insurance, pension and standardized guarantee schemems; asset (IMA)	Line 86	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR794022005.A	Domestic financial sectors; debt securities; asset	Line 87	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793064105.A	Domestic financial sectors; corporate equities; asset	Line 88	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793064205.A	Domestic financial sectors; mutual fund shares; asset	Line 89	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793092005.A	Domestic financial sectors; U.S. direct investment abroad; asset	Line 90	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR593052025.A	Pension funds; retirement entitlements; asset (IMA)	Line 91	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR794190085.A	Domestic financial sectors; revaluation of equity and investment fund shares and insurance, pension and standardized guarantee schemes; liability (IMA)	Line 92	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793164105.A	Domestic financial sectors; corporate equities; liability	Line 93	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR653164205.A	Mutual funds; mutual fund shares; liability	Line 94	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793192005.A	Domestic financial sectors; foreign direct investment in U.S.; liability	Line 95	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR662090205.A	Security brokers and dealers; proprietors' equity in noncorporate business	Line 96	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR793194005.A	Domestic financial sectors; equity investment by parent companies; liability	Line 97	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR583152005.A	Insurance companies and pension funds; insurance, pension and standardized guarantee schemes; liability (IMA)	Line 98	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FR798200005.A	Domestic financial sectors; changes in net worth due to nominal holding gains/losses (IMA)	Line 99	Table S.6.a Financial Business	Millions of dollars; quarterly figures are unadjusted quarterly rates
+FC792090095.A	Domestic financial sectors; net worth (IMA)	Line 100	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL792000095.A	Domestic financial sectors; total assets (does not include land)	Line 101	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL792010095.A	Domestic financial sectors; nonfinancial assets (does not include land)	Line 102	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL795013665.A	Domestic financial sectors; nonresidential structures, current cost basis	Line 103	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL795013265.A	Domestic financial sectors; nonresidential equipment, current cost basis	Line 104	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL795013765.A	Domestic financial sectors; nonresidential intellectual property products, current cost basis	Line 105	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794090005.A	Domestic financial sectors; total financial assets	Line 106	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL713011203.A	Monetary authority; monetary gold; asset	Line 107	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794000005.A	Domestic financial sectors; total currency and deposits; asset	Line 108	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794022005.A	Domestic financial sectors; debt securities; asset	Line 109	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793069175.A	Domestic financial sectors; open market paper; asset	Line 110	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793061105.A	Domestic financial sectors; Treasury securities; asset	Line 111	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793061705.A	Domestic financial sectors; agency- and GSE-backed securities; asset	Line 112	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793062005.A	Domestic financial sectors; municipal securities; asset	Line 113	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793063005.A	Domestic financial sectors; corporate and foreign bonds; asset	Line 114	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794035005.A	Domestic financial sectors; total loans including security repurchase agreements; asset	Line 115	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794041005.A	Domestic financial sectors; loans including security repurchase agreements, excluding mortgages; asset	Line 116	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793065005.A	Domestic financial sectors; total mortgages; asset	Line 117	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793081005.A	Domestic financial sectors; equity and investment fund shares; asset (IMA)	Line 118	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+LM793064105.A	Domestic financial sectors; corporate equities; asset	Line 119	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+LM793064205.A	Domestic financial sectors; mutual fund shares; asset	Line 120	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793034005.A	Domestic financial sectors; money market mutual fund shares; asset	Line 121	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793092405.A	Domestic financial sectors; equity in FHLB; asset	Line 122	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793092005.A	Domestic financial sectors; U.S. direct investment abroad; asset	Line 123	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 124	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793094005.A	Domestic financial sectors; equity investment in own subsidiaries; asset	Line 125	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793052005.A	Domestic financial sectors; insurance, pension and standardized guarantee schemes; asset (IMA)	Line 126	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793096005.A	Domestic financial sectors; other accounts receivable; asset (IMA)	Line 127	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL792100005.A	Domestic financial sectors; total liabilities and net worth (IMA)	Line 128	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794194005.A	Domestic financial sectors; total liabilities and equity	Line 129	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794100005.A	Domestic financial sectors; total currency and deposits excluding Federal Reserve loans to domestic banks; liability	Line 130	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794122005.A	Domestic financial sectors; debt securities; liability	Line 131	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL423161705.A	Government-sponsored enterprises and federally related mortgage pools; U.S. government agency securities; liability	Line 132	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793163005.A	Domestic financial sectors; corporate and foreign bonds; liability	Line 133	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793169175.A	Domestic financial sectors; open market paper; liability	Line 134	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794135005.A	Domestic financial sectors; total loans including security repurchase agreements; liability	Line 135	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL794141005.A	Domestic financial sectors; short-term loans including security repurchase agreements; liability	Line 136	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL643165005.A	Real estate investment trusts; total mortgages; liability	Line 137	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793181005.A	Domestic financial sectors; equity and investment fund shares; liability (IMA)	Line 138	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL634090005.A	Money market mutual funds; total financial assets	Line 139	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+LM793164105.A	Domestic financial sectors; corporate equities; liability	Line 140	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+LM653164205.A	Mutual funds; mutual fund shares; liability	Line 141	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL403192405.A	Government-sponsored enterprises; equity in government-sponsored enterprises (GSEs); liability	Line 142	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793192005.A	Domestic financial sectors; foreign direct investment in U.S.; liability	Line 143	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL662090205.A	Security brokers and dealers; proprietors' equity in noncorporate business	Line 144	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793194005.A	Domestic financial sectors; equity investment by parent companies; liability	Line 145	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL713164003.A	Monetary authority; Federal Reserve bank stock; liability	Line 146	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL583152005.A	Insurance companies and pension funds; insurance, pension and standardized guarantee schemes; liability (IMA)	Line 147	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL793196005.A	Domestic financial sectors; other accounts payable; liability (IMA)	Line 148	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted
+FL792090095.A	Domestic financial sectors; net worth (IMA)	Line 149	Table S.6.a Financial Business	Millions of dollars; not seasonally adjusted

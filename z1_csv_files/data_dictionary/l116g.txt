@@ -2,12 +2,12 @@ FL544090075.Q	Life insurance companies, general accounts; total financial assets
 FL543020073.Q	Life insurance companies, general accounts; checkable deposits and currency; asset	Line 2	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
 FL543034073.Q	Life insurance companies, general accounts; money market mutual fund shares; asset	Line 3	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
 FL542051073.Q	Life insurance companies, general accounts; security repurchase agreements; asset	Line 4	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL544022075.Q	Life insurance companies, general accounts; debt securities; asset	Line 5	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL543069170.Q	Life insurance companies, general accounts; commercial paper; asset	Line 6	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL543061173.Q	Life insurance companies, general accounts; Treasury securities; asset	Line 7	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL543061773.Q	Life insurance companies, general accounts; agency- and GSE-backed securities; asset	Line 8	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL543062073.Q	Life insurance companies, general accounts; municipal securities; asset	Line 9	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
-FL543063075.Q	Life insurance companies, general accounts; corporate and foreign bonds; asset	Line 10	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM544022075.Q	Life insurance companies, general accounts; debt securities; asset	Line 5	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM543069170.Q	Life insurance companies, general accounts; commercial paper; asset	Line 6	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM543061173.Q	Life insurance companies, general accounts; Treasury securities; asset	Line 7	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM543061773.Q	Life insurance companies, general accounts; agency- and GSE-backed securities; asset	Line 8	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM543062073.Q	Life insurance companies, general accounts; municipal securities; asset	Line 9	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
+LM543063075.Q	Life insurance companies, general accounts; corporate and foreign bonds; asset	Line 10	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
 FL544023075.Q	Life insurance companies, general accounts; loans; asset	Line 11	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
 FL543069075.Q	Life insurance companies, general accounts; other loans and advances; asset	Line 12	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted
 FL543065070.Q	Life insurance companies, general accounts; total mortgages; asset	Line 13	Table L.116.g Life Insurance Companies: General Accounts	Millions of dollars; not seasonally adjusted

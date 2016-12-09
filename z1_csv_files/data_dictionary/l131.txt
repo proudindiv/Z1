@@ -21,4 +21,5 @@ FL734122005.Q	Holding companies; debt securities; liability	Line 20	Table L.131 
 FL733169103.Q	Holding companies; commercial paper; liability	Line 21	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted
 FL733163003.Q	Holding companies; corporate and foreign bonds; liability	Line 22	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted
 FL733168003.Q	Holding companies; depository institution loans n.e.c.; liability	Line 23	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted
-FL733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 24	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted
+FL733192003.Q	Holding companies; foreign direct investment in U.S.; liability	Line 24	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted
+FL733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 25	Table L.131 Holding Companies	Millions of dollars; not seasonally adjusted

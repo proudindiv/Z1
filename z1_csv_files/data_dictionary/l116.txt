@@ -2,12 +2,12 @@ FL544090005.Q	Life insurance companies; total financial assets	Line 1	Table L.11
 FL543020005.Q	Life insurance companies; checkable deposits and currency; asset	Line 2	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
 FL543034005.Q	Life insurance companies; money market mutual fund shares; asset	Line 3	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
 FL542051073.Q	Life insurance companies, general accounts; security repurchase agreements; asset	Line 4	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL544022005.Q	Life insurance companies; debt securities; asset	Line 5	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL543069105.Q	Life insurance companies; commercial paper; asset	Line 6	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL543061105.Q	Life insurance companies; Treasury securities; asset	Line 7	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 8	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL543062005.Q	Life insurance companies; municipal securities; asset	Line 9	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
-FL543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 10	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM544022005.Q	Life insurance companies; debt securities; asset	Line 5	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM543069105.Q	Life insurance companies; commercial paper; asset	Line 6	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM543061105.Q	Life insurance companies; Treasury securities; asset	Line 7	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 8	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM543062005.Q	Life insurance companies; municipal securities; asset	Line 9	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
+LM543063005.Q	Life insurance companies; corporate and foreign bonds; asset	Line 10	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
 FL544023005.Q	Life insurance companies; loans; asset	Line 11	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
 FL543069005.Q	Life insurance companies; other loans and advances; asset	Line 12	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted
 FL543065005.Q	Life insurance companies; total mortgages; asset	Line 13	Table L.116 Life Insurance Companies	Millions of dollars; not seasonally adjusted

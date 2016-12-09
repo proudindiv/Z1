@@ -35,8 +35,8 @@ FL764022005.Q	U.S.-chartered depository institutions; debt securities; asset	Lin
 FL754022005.Q	Foreign banking offices in the U.S.; debt securities; asset	Line 35	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
 FL744022003.Q	Banks in U.S.-affiliated areas; debt securities; asset	Line 36	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
 FL474022005.Q	Credit unions; debt securities; asset	Line 37	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
-FL514022005.Q	Property-casualty insurance companies; debt securities; asset	Line 38	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
-FL544022005.Q	Life insurance companies; debt securities; asset	Line 39	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
+LM514022005.Q	Property-casualty insurance companies; debt securities; asset	Line 38	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
+LM544022005.Q	Life insurance companies; debt securities; asset	Line 39	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
 FL574022005.Q	Private pension funds; debt securities; asset	Line 40	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
 FL344022005.Q	Federal government retirement funds; debt securities; asset	Line 41	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted
 FL224022045.Q	State and local government employee defined benefit retirement funds retirement funds; debt securities; asset	Line 42	Table L.208 Debt Securities	Millions of dollars; not seasonally adjusted

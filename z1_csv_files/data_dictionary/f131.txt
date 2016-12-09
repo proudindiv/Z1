@@ -24,7 +24,8 @@ FA733169103.Q	Holding companies; commercial paper; liability	Line 23	Table F.131
 FA733163003.Q	Holding companies; corporate and foreign bonds; liability	Line 24	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
 FA733168003.Q	Holding companies; depository institution loans n.e.c.; liability	Line 25	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
 FA733164103.Q	Holding companies; corporate equities; liability	Line 26	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
-FA733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 27	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
-FA733164005.Q	Holding companies; equity accounts; liability	Line 28	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
-FA733193015.Q	Holding companies; unidentified miscellaneous liabilities, excluding equity, etc.	Line 29	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
-FA737005005.Q	Holding companies; sector discrepancy	Line 30	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA733192003.Q	Holding companies; foreign direct investment in U.S.; liability	Line 27	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA733193005.Q	Holding companies; unidentified miscellaneous liabilities	Line 28	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA733164005.Q	Holding companies; equity accounts; liability	Line 29	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA733193015.Q	Holding companies; unidentified miscellaneous liabilities, excluding equity, etc.	Line 30	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates
+FA737005005.Q	Holding companies; sector discrepancy	Line 31	Table F.131 Holding Companies	Millions of dollars; quarterly figures are seasonally adjusted annual rates

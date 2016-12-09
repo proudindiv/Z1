@@ -29,7 +29,7 @@ FL763090005.Q	U.S.-chartered depository institutions; total miscellaneous assets
 FL753093005.Q	Foreign banking offices in the U.S., including IBFs; unidentified miscellaneous assets	Line 29	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
 FL743093005.Q	Banks in U.S.-affiliated areas; unidentified miscellaneous assets	Line 30	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
 FL473090005.Q	Credit unions; total miscellaneous assets	Line 31	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
-FL513092403.Q	Property-casualty insurance companies; equity in FHLB; asset	Line 32	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
+FL513090005.Q	Property-casualty insurance companies; total miscellaneous assets	Line 32	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
 FL543090005.Q	Life insurance companies; total miscellaneous assets	Line 33	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
 FL573090005.Q	Private pension funds; total miscellaneous assets	Line 34	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted
 FL343073005.Q	Federal government retirement funds; claims of pension fund on sponsor; asset	Line 35	Table L.231 Total Miscellaneous Financial Claims	Millions of dollars; not seasonally adjusted

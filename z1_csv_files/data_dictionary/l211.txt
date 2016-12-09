@@ -12,8 +12,8 @@ FL763061705.Q	U.S.-chartered depository institutions; agency- and GSE-backed sec
 FL753061703.Q	Foreign banking offices in the U.S.; agency- and GSE-backed securities; asset	Line 12	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
 FL743061703.Q	Banks in U.S.-affiliated areas; agency- and GSE-backed securities; asset	Line 13	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
 FL473061705.Q	Credit unions; agency- and GSE-backed securities; asset	Line 14	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
-FL513061703.Q	Property-casualty insurance companies; agency- and GSE-backed securities; asset	Line 15	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
-FL543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 16	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
+LM513061703.Q	Property-casualty insurance companies; agency- and GSE-backed securities; asset	Line 15	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
+LM543061705.Q	Life insurance companies; agency- and GSE-backed securities; asset	Line 16	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
 FL573061705.Q	Private pension funds; agency- and GSE-backed securities; asset	Line 17	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
 FL343061705.Q	Federal government retirement funds; agency- and GSE-backed securities; asset	Line 18	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted
 FL223061743.Q	State and local government employee defined benefit retirement funds; agency- and GSE-backed securities; asset	Line 19	Table L.211 Agency- and GSE-Backed Securities	Millions of dollars; not seasonally adjusted

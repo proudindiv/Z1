@@ -15,32 +15,33 @@ FL753192003.Q	Foreign banking offices in the U.S.; foreign direct investment in 
 FL513192003.Q	Property-casualty insurance companies; foreign direct investment in U.S.; liability	Line 15	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
 FL543192073.Q	Life insurance companies, general accounts; foreign direct investment in U.S.; liability	Line 16	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
 FL613192003.Q	Finance companies; foreign direct investment in U.S.; liability	Line 17	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL663192003.Q	Security brokers and dealers; foreign direct investment in U.S.; liability	Line 18	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL503192003.Q	Funding corporations; foriegn direct investment in U.S.; liability	Line 19	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092001.Q	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 20	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (current cost)	Line 21	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 22	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092323.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. affiliates' liabilities; asset	Line 23	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192323.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. affiliates' claims; liability	Line 24	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192035.Q	Rest of the world; net incurrence direct investment liabilities (asset/liability basis; current cost)	Line 25	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192101.Q	Rest of the world; U.S. direct investment abroad: equity; liability (current cost)	Line 26	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192345.Q	Rest of the world; direct investment: intercompany debt (asset/liability basis); liability	Line 27	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192313.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. parents' claims; liability	Line 28	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192323.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. affiliates' claims; liability	Line 29	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092035.Q	Rest of the world; net acquisition of direct investment assets (asset/liability basis; current cost)	Line 30	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (current cost)	Line 31	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092345.Q	Rest of the world; direct investment: intercompany debt (asset/liability basis); assets	Line 32	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092313.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. parents' liabilities; asset	Line 33	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092323.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. affiliates' liabilities; asset	Line 34	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263192045.Q	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (market value)	Line 35	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263192141.Q	Rest of the world; U.S. direct investment abroad: equity; liability (market value)	Line 36	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 37	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192055.Q	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (historical cost)	Line 38	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192151.Q	Rest of the world; U.S. direct investment abroad: equity; liability (historical cost)	Line 39	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 40	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263092045.Q	Rest of the world; foreign direct investment in U.S.; asset (market value)	Line 41	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263092141.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (market value)	Line 42	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-LM263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 43	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092055.Q	Rest of the world; foreign direct investment in U.S.; asset (historical cost)	Line 44	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092151.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (historical cost)	Line 45	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
-FL263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 46	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL663192005.Q	Security brokers and dealers; foreign direct investment in U.S., adjusted for U.S. Intermediate Holding Companies; liability	Line 18	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL733192003.Q	Holding companies; foreign direct investment in U.S.; liability	Line 19	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL503192003.Q	Funding corporations; foriegn direct investment in U.S.; liability	Line 20	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092001.Q	Rest of the world; foreign direct investment in U.S.; asset (current cost)	Line 21	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (current cost)	Line 22	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 23	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092323.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. affiliates' liabilities; asset	Line 24	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192323.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. affiliates' claims; liability	Line 25	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192035.Q	Rest of the world; net incurrence direct investment liabilities (asset/liability basis; current cost)	Line 26	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192101.Q	Rest of the world; U.S. direct investment abroad: equity; liability (current cost)	Line 27	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192345.Q	Rest of the world; direct investment: intercompany debt (asset/liability basis); liability	Line 28	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192313.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. parents' claims; liability	Line 29	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192323.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, U.S. affiliates' claims; liability	Line 30	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092035.Q	Rest of the world; net acquisition of direct investment assets (asset/liability basis; current cost)	Line 31	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092101.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (current cost)	Line 32	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092345.Q	Rest of the world; direct investment: intercompany debt (asset/liability basis); assets	Line 33	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092313.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. parents' liabilities; asset	Line 34	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092323.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt, U.S. affiliates' liabilities; asset	Line 35	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263192045.Q	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (market value)	Line 36	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263192141.Q	Rest of the world; U.S. direct investment abroad: equity; liability (market value)	Line 37	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 38	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192055.Q	Rest of the world; U.S. direct investment abroad, including Netherlands Antillean Financial subsidiaries; liability (historical cost)	Line 39	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192151.Q	Rest of the world; U.S. direct investment abroad: equity; liability (historical cost)	Line 40	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263192305.Q	Rest of the world; U.S. direct investment abroad: intercompany debt, including Netherlands Antillean Financial subsidiaries; liability	Line 41	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263092045.Q	Rest of the world; foreign direct investment in U.S.; asset (market value)	Line 42	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263092141.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (market value)	Line 43	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+LM263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 44	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092055.Q	Rest of the world; foreign direct investment in U.S.; asset (historical cost)	Line 45	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092151.Q	Rest of the world; foreign direct investment in U.S.: equity; asset (historical cost)	Line 46	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
+FL263092303.Q	Rest of the world; foreign direct investment in U.S.: intercompany debt; asset	Line 47	Table L.230 Direct Investment	Millions of dollars; not seasonally adjusted
